@@ -1,10 +1,9 @@
 # Aplicación de Nuevas Tecnologías
 
 ## Información General
-- **Curso:** 7º año – Orientación en Programación
-- **Edad promedio:** 18 años
+- **Curso:** 7º año – Tecnicatura en Programación
 - **Duración:** Ciclo lectivo anual
-- **Carga horaria:** 4 horas semanales (2 teóricas, 2 prácticas)
+- **Carga horaria:** 6 horas semanales 
 
 ## Fundamentación
 
@@ -46,26 +45,6 @@ Objetivos:
 - **Proyectos prácticos:** Desarrollo de aplicaciones que integren los conceptos vistos.
 - **Trabajo colaborativo:** Uso de herramientas de versionado y trabajo en equipo.
 - **Casos de estudio:** Análisis de implementaciones reales en la industria.
-
-## Evaluación
-
-- Proyectos prácticos por unidad (individuales y en grupo)
-- Evaluaciones teóricas y prácticas
-- Participación en clase y en herramientas colaborativas
-- Trabajo final integrador (proyecto con versionado, dockerizado, deployado y con IA)
-
-## Cronograma Tentativo
-
-- **1er Trimestre:** Unidad 1 (Git y GitHub)
-- **2do Trimestre:** Unidad 2 (Conteinerización) y comienzo de Unidad 3 (IA)
-- **3er Trimestre:** Finalización de Unidad 3 (IA) y Unidad 4 (Cloud Computing)
-
-## Requisitos
-
-- Conocimientos básicos de programación
-- Computadora con acceso a internet
-- Cuenta de GitHub
-- Docker instalado (a partir del 2do trimestre)
 
 ## Bibliografía y Recursos
 
